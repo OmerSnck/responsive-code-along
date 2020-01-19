@@ -4,7 +4,7 @@
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
+| __HTML content__ | As an enthusiastic HYF student I can create the HTML structure so that i have a good semantic base to build upon.  | An full template project with `doctype`, language, charset, `head` & `body` | an empty file |
 |  | |  |  |
 | ... | ... | ... | ... |
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
